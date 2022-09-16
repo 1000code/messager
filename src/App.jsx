@@ -10,7 +10,7 @@ function App() {
   return (
     <div className="App">
       <h1 className="s">Test</h1>
-      <MessengerCustomerChat pageId="556327282910445" appId="408415308085785" />
+      <MessengerCustomerChat pageId="107649348764001" appId="839133677251380" />
 
       {/* <MessengerChat pageId="123456789101112" /> */}
     </div>
